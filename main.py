@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-df_inifian = pd.read_csv(r'kit/team.csv')
+df_inifian = pd.read_csv(r'datetime/team.csv')
 
 print(df_inifian, ['data'])
 
